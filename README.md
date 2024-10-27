@@ -23,7 +23,7 @@ Web development projects, especially MERN-based ones, educational tools, or comm
 🚀 **Tech Stack:**  
 - **Languages:** JavaScript, HTML, CSS  
 - **Frameworks/Libraries:** React, Node.js, Express  
-- **Databases:** MongoDB  
+- **Databases:** MongoDB ,SQL 
 - **Tools:** Git, GitHub, VS Code  
 
 📫 **Reach Me:**  
