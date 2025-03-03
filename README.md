@@ -18,11 +18,13 @@ Web development projects, especially MERN-based ones, educational tools, or comm
 
 📂 **Current Projects:**  
 - Library Management System
-- Blog Management System using React and Tailwind CSS
+- Blog Management System 
+- E-commerce
+- Answerly 
 
 🚀 **Tech Stack:**  
 - **Languages:** JavaScript, HTML, CSS  
-- **Frameworks/Libraries:** React, Node.js, Express  
+- **Frameworks/Libraries:** Tailwind, React,  Express  
 - **Databases:** MongoDB ,SQL 
 - **Tools:** Git, GitHub, VS Code  
 
